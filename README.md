@@ -20,7 +20,7 @@ Do **not** treat this as a confirmed live URL until the Pages deployment succeed
 ### Education, certifications and training
 
 - **B.Sc. Computer Engineering**, Selçuk University, graduation 2017.
-- **M.Sc. Computer Engineering (thesis-based)**, Selçuk University, graduation 2022, **95.71/100**.
+- **M.Sc. Computer Engineering (thesis-based)**, Selçuk University, graduation 2022, **95.71/100**; thesis **“Detection of Malicious Android Applications with Machine Learning Methods”** ([YÖK detail link from prior CV](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=PEa7Fo7NAdzpcXKpkXkMNA), current accessibility not verified).
 - **CEH (Practical)**, awarded 2025 — official renewal standing not independently verified.
 - **ISO/IEC 27001:2022 Auditor/Lead Auditor Course**, CTR Academy, 40 hours, completed 2024.
 - [Source and evidence limitations](docs/EDUCATION-CREDENTIALS.md). Credential scans and serial numbers are **not** published.

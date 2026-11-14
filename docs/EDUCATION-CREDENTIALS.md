@@ -9,9 +9,9 @@ This page distinguishes facts **supplied by the holder**, evidence visible in up
 | B.Sc., Computer Engineering | Selçuk University, Türkiye | 2017 | Degree and completion year supplied by the holder; diploma not independently verified here |
 | M.Sc., Computer Engineering (thesis-based) | Selçuk University, Türkiye | 2022 | Graduation grade **95.71/100**, supplied by the holder; transcript and diploma not independently verified here |
 
-**Master's thesis:** A [YÖK National Thesis Center search-results URL](https://tez.yok.gov.tr/UlusalTezMerkezi/tezSorguSonucYeni.jsp) was supplied, but this generic session-dependent search page does not identify a unique thesis in this context. The thesis title, record number and stable public link are therefore **pending verification**. [Official search portal](https://tez.yok.gov.tr/UlusalTezMerkezi/).
+**Master's thesis:** The holder's earlier English CV provides the title **“Detection of Malicious Android Applications with Machine Learning Methods”** and this [specific YÖK thesis-detail URL](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=PEa7Fo7NAdzpcXKpkXkMNA). The original link supplied in the current conversation was a generic results page; the CV independently identifies a specific detail URL. An attempt to open that YÖK link from this environment timed out, so **live availability and the official catalogue metadata were not independently confirmed**. [Official YÖK search portal](https://tez.yok.gov.tr/UlusalTezMerkezi/).
 
-Do not invent a thesis topic or label the archive's search-results endpoint as the thesis's permanent URL.
+This thesis is a **separate degree work**; do not silently equate it with either of the 2022 or 2026 journal publications.
 
 ## EC-Council: Certified Ethical Hacker (Practical)
 

@@ -40,7 +40,7 @@ Hands-on Kubernetes security training exercises using temporary clusters, includ
 
 ## Education
 
-- **M.Sc. in Computer Engineering (thesis-based)** — Selçuk University, graduated **2022**. Graduation grade **95.71 / 100** (candidate-provided). Master's thesis title and permanent YÖK record ID have not been independently identified; [official National Thesis Center search portal](https://tez.yok.gov.tr/UlusalTezMerkezi/).
+- **M.Sc. in Computer Engineering (thesis-based)** — Selçuk University, graduated **2022**. Graduation grade **95.71 / 100** (candidate-provided). Thesis: **“Detection of Malicious Android Applications with Machine Learning Methods”** — [YÖK catalogue-detail link](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=PEa7Fo7NAdzpcXKpkXkMNA) recovered from the earlier CV (live accessibility unverified).
 - **B.Sc. in Computer Engineering** — Selçuk University, graduated **2017** (candidate-provided).
 
 ## Certifications and professional training

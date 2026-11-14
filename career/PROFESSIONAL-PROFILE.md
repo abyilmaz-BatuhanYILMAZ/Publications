@@ -6,7 +6,7 @@
 
 ## Education
 
-- **M.Sc. in Computer Engineering (thesis-based)** — Selçuk University, graduated **2022**. Graduation grade **95.71 / 100** (candidate-provided). Master's thesis title and permanent YÖK record ID have not been independently identified; [official National Thesis Center search portal](https://tez.yok.gov.tr/UlusalTezMerkezi/).
+- **M.Sc. in Computer Engineering (thesis-based)** — Selçuk University, graduated **2022**. Graduation grade **95.71 / 100** (candidate-provided). Thesis: **“Detection of Malicious Android Applications with Machine Learning Methods”** — [YÖK thesis-detail link](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=PEa7Fo7NAdzpcXKpkXkMNA) documented in the earlier CV; current link accessibility not independently verified.
 - **B.Sc. in Computer Engineering** — Selçuk University, graduated **2017** (candidate-provided).
 
 ## Certifications and professional training

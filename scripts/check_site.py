@@ -75,7 +75,7 @@ def main():
         if link not in parser.anchors:
             raise ValueError("Missing verified public evidence link: " + link)
     page_text = page.read_text(encoding="utf-8")
-    for marker in ("95.71", "2017", "2022", "Certified Ethical Hacker", "ISO/IEC 27001:2022", "renewal/CPE"):
+    for marker in ("95.71", "2017", "2022", "Certified Ethical Hacker", "ISO/IEC 27001:2022", "renewal/CPE", "Detection of Malicious Android Applications"):
         if marker not in page_text:
             raise ValueError("Missing education or qualified credential detail: " + marker)
     if not (ROOT / "docs/EDUCATION-CREDENTIALS.md").exists():
