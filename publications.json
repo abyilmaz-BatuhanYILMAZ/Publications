@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "type": "academic_publication_portfolio",
+  "maintainer": "Abdullah Batuhan Yilmaz",
+  "orcid": "https://orcid.org/0000-0002-4400-712X",
+  "publications": [
+    {
+      "id": "2026-android-permission-ml",
+      "title": "Classification of malicious android applications by machine learning methods using permission properties",
+      "authors": [
+        "Abdullah Batuhan Yilmaz",
+        "Yavuz Selim Taspinar",
+        "Murat Koklu"
+      ],
+      "journal": "International Journal of Mobile Communications",
+      "year": 2026,
+      "volume": "28",
+      "issue": "1",
+      "pages": "1-22",
+      "doi": "10.1504/IJMC.2026.154630",
+      "url": "https://doi.org/10.1504/IJMC.2026.154630",
+      "methods": [
+        "AdaBoost",
+        "Random Forest",
+        "Artificial Neural Networks",
+        "Information Gain"
+      ],
+      "paper_reported_result": {
+        "best_accuracy_percent": 98.4,
+        "model": "ANN",
+        "feature_count": 117
+      },
+      "summary": "papers/2026-android-malware-ml-feature-selection.md"
+    },
+    {
+      "id": "2022-android-permission-nb-svm",
+      "title": "Classification of Malicious Android Applications Using Naive Bayes and Support Vector Machine Algorithms",
+      "authors": [
+        "Abdullah Batuhan Yilmaz",
+        "Yavuz Selim Taspinar",
+        "Murat Koklu"
+      ],
+      "journal": "International Journal of Intelligent Systems and Applications in Engineering",
+      "year": 2022,
+      "volume": "10",
+      "issue": "2",
+      "pages": "269-274",
+      "doi": null,
+      "url": "https://www.ijisae.org/index.php/IJISAE/article/view/2010",
+      "methods": [
+        "Naive Bayes",
+        "Support Vector Machine",
+        "10-fold cross-validation"
+      ],
+      "paper_reported_result": {
+        "naive_bayes_accuracy_percent": 92.4,
+        "svm_accuracy_percent": 90.9
+      },
+      "summary": "papers/2022-android-malware-naive-bayes-svm.md"
+    }
+  ],
+  "note": "Results are quoted from published papers; they were not independently reproduced here."
+}
