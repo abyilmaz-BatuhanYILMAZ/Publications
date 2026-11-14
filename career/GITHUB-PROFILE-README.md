@@ -14,6 +14,15 @@ Nine years in cybersecurity. My current work connects offensive security assessm
 | [AD-HealthAudit](https://github.com/abyilmaz-BatuhanYILMAZ/AD-HealtAudit) | Active Directory indicators and privilege graph candidates | Mock-domain CI; real-domain validation pending |
 | [Publications](https://github.com/abyilmaz-BatuhanYILMAZ/Publications) | Android malware ML research | Two peer-reviewed papers and official journal links |
 
+### Education and credentials
+
+- **M.Sc. Computer Engineering (thesis-based)**, Selçuk University (2022), graduation grade **95.71/100**.
+- **B.Sc. Computer Engineering**, Selçuk University (2017).
+- **CEH (Practical)**, EC-Council (awarded 2025; current standing to be verified).
+- **ISO/IEC 27001:2022 ISMS Auditor / Lead Auditor Course**, CTR Academy (40-hour training completed 2024).
+
+[Qualification evidence and caveats](https://github.com/abyilmaz-BatuhanYILMAZ/Publications/blob/main/docs/EDUCATION-CREDENTIALS.md)
+
 ### Published research
 
 - **2026:** [Machine learning classification of malicious Android applications using permission properties](https://doi.org/10.1504/IJMC.2026.154630), *International Journal of Mobile Communications*.

@@ -17,6 +17,14 @@ A responsive, English-language portfolio is prepared in [docs/index.html](docs/i
 
 Do **not** treat this as a confirmed live URL until the Pages deployment succeeds. The site uses relative paths and has no external script/font dependencies; its HTML/CSS can later be moved into a dedicated `abyilmaz-batuhanyilmaz.github.io` user-site repository. A separately registered `.io` custom domain may also be attached later.
 
+### Education, certifications and training
+
+- **B.Sc. Computer Engineering**, Selçuk University, graduation 2017.
+- **M.Sc. Computer Engineering (thesis-based)**, Selçuk University, graduation 2022, **95.71/100**.
+- **CEH (Practical)**, awarded 2025 — official renewal standing not independently verified.
+- **ISO/IEC 27001:2022 Auditor/Lead Auditor Course**, CTR Academy, 40 hours, completed 2024.
+- [Source and evidence limitations](docs/EDUCATION-CREDENTIALS.md). Credential scans and serial numbers are **not** published.
+
 ### Professional background (public, non-confidential)
 
 - [Red Team leadership methodology case study](career/RED-TEAM-LEADERSHIP-CASE-STUDY.md) — explicitly **not** a claimed customer engagement.

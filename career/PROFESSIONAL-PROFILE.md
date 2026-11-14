@@ -4,6 +4,18 @@
 
 **Abdullah Batuhan Yilmaz** is a Red Team Lead with nine years of cybersecurity experience and a research interest in AI agent security, offensive assessment and security engineering. His public portfolio includes peer-reviewed research in machine-learning-based Android malware detection and open-source experimental work on prompt injection, authorization boundaries, Kubernetes configuration assessment and Active Directory security indicators.
 
+## Education
+
+- **M.Sc. in Computer Engineering (thesis-based)** — Selçuk University, graduated **2022**. Graduation grade **95.71 / 100** (candidate-provided). Master's thesis title and permanent YÖK record ID have not been independently identified; [official National Thesis Center search portal](https://tez.yok.gov.tr/UlusalTezMerkezi/).
+- **B.Sc. in Computer Engineering** — Selçuk University, graduated **2017** (candidate-provided).
+
+## Certifications and professional training
+
+- **Certified Ethical Hacker (Practical)** — **EC-Council**, awarded **12 March 2025** (certificate supplied). The certificate lists **1 April 2026** as a renewal date and specifies continuing professional education and annual CE fee conditions. The credential's **current standing is unverified**, so do not represent it as currently active without checking the official account.
+- **Information Security Management System Auditor / Lead Auditor Course (ISO/IEC 27001:2022)** — **CTR Academy**, **40 hours / 5 days**; course **24–28 June 2024**, completion certificate **8 July 2024** (certificate supplied). This is a **completed training course**, not proof of separate accredited lead-auditor personnel certification.
+
+Sensitive serial numbers and certificate scans have intentionally **not** been uploaded to this public repository. See [education and credential evidence notes](../docs/EDUCATION-CREDENTIALS.md).
+
 ## Research statement
 
 My goal is to apply the discipline of offensive security testing to systems that delegate decisions to language models. I am especially interested in evaluating how lower-trust inputs influence model decisions, and whether independently enforced tool permissions can keep an attempted unsafe action from becoming a real side effect.

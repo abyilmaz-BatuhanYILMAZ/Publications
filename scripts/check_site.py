@@ -53,7 +53,7 @@ def main():
         raise ValueError("Expected one page title and one H1")
     if parser.external_scripts or parser.images_without_alt:
         raise ValueError("External scripts or images missing alt attributes")
-    required = {"main", "top", "research", "engineering", "publications", "leadership"}
+    required = {"main", "top", "research", "engineering", "publications", "education", "credentials", "leadership"}
     if not required.issubset(parser.ids):
         raise ValueError("Missing navigation landmark or content section")
     for href in parser.anchors:
@@ -74,6 +74,12 @@ def main():
     for link in expected:
         if link not in parser.anchors:
             raise ValueError("Missing verified public evidence link: " + link)
+    page_text = page.read_text(encoding="utf-8")
+    for marker in ("95.71", "2017", "2022", "Certified Ethical Hacker", "ISO/IEC 27001:2022", "renewal/CPE"):
+        if marker not in page_text:
+            raise ValueError("Missing education or qualified credential detail: " + marker)
+    if not (ROOT / "docs/EDUCATION-CREDENTIALS.md").exists():
+        raise ValueError("Credential caveats documentation not committed")
     if not (ROOT / "career/RED-TEAM-LEADERSHIP-CASE-STUDY.md").exists():
         raise ValueError("Professional leadership artifact not committed")
     print(f"PASS: one-page portfolio; {len(parser.ids)} unique anchors; "

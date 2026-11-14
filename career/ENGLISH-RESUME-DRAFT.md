@@ -3,7 +3,7 @@
 
 [GitHub](https://github.com/abyilmaz-BatuhanYILMAZ) · [ORCID](https://orcid.org/0000-0002-4400-712X)
 
-> **Application draft, not a verified employer-issued CV.** It intentionally omits employer names, employment dates, qualifications, certifications and quantitative accomplishments that have not been confirmed by the candidate. Add those details before submitting.
+> **Application draft, not a verified employer-issued CV.** Employer names, employment dates, quantitative accomplishments and other facts not provided by the candidate remain omitted. Education and two credential documents have now been supplied and are listed with their evidence limitations. Add those details before submitting.
 
 ## Professional profile
 
@@ -38,13 +38,25 @@ Hands-on Kubernetes security training exercises using temporary clusters, includ
 
 **2022 —** Yilmaz, A. B.; Taspinar, Y. S.; Koklu, M. *Classification of Malicious Android Applications Using Naive Bayes and Support Vector Machine Algorithms*. **International Journal of Intelligent Systems and Applications in Engineering**, 10(2), 269–274. [Journal record](https://www.ijisae.org/index.php/IJISAE/article/view/2010).
 
+## Education
+
+- **M.Sc. in Computer Engineering (thesis-based)** — Selçuk University, graduated **2022**. Graduation grade **95.71 / 100** (candidate-provided). Master's thesis title and permanent YÖK record ID have not been independently identified; [official National Thesis Center search portal](https://tez.yok.gov.tr/UlusalTezMerkezi/).
+- **B.Sc. in Computer Engineering** — Selçuk University, graduated **2017** (candidate-provided).
+
+## Certifications and professional training
+
+- **Certified Ethical Hacker (Practical)** — **EC-Council**, awarded **12 March 2025** (certificate supplied). The certificate lists **1 April 2026** as a renewal date and specifies continuing professional education and annual CE fee conditions. The credential's **current standing is unverified**, so do not represent it as currently active without checking the official account.
+- **Information Security Management System Auditor / Lead Auditor Course (ISO/IEC 27001:2022)** — **CTR Academy**, **40 hours / 5 days**; course **24–28 June 2024**, completion certificate **8 July 2024** (certificate supplied). This is a **completed training course**, not proof of separate accredited lead-auditor personnel certification.
+
+Sensitive serial numbers and certificate scans have intentionally **not** been uploaded to this public repository. See [education and credential evidence notes](../docs/EDUCATION-CREDENTIALS.md).
+
 ## Leadership approach
 
 Structured scoping, authorized testing, reproducible technical evidence and remediation-oriented reporting. [Public methodology case study](RED-TEAM-LEADERSHIP-CASE-STUDY.md).
 
 ## Details still required for a submission-ready CV
 
-These are intentionally **not fabricated**: formal employer and title, role dates, education/degree, relevant certifications, verifiable projects led, direct reports/team size, quantified operational outcomes, email/contact preference and any required travel/relocation context. This draft should be tailored to the application after those facts are confirmed.
+These are intentionally **not fabricated**: formal employer and title, role dates, credential renewal verification, master's thesis permanent reference, verifiable projects led, direct reports/team size, quantified operational outcomes, email/contact preference and any required travel/relocation context. This draft should be tailored to the application after those facts are confirmed.
 
 ---
 
