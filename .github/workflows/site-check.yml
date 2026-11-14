@@ -1,0 +1,27 @@
+name: Verify research portfolio website
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'career/**'
+      - 'scripts/check_site.py'
+      - '.github/workflows/site-check.yml'
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  static-site-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Check English portfolio HTML, anchors and linked evidence
+        run: python scripts/check_site.py
