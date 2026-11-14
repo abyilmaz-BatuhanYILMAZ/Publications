@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#09111d">
+  <meta name="description" content="Abdullah Batuhan Yilmaz — Red Team Lead, offensive security engineer and co-author of peer-reviewed machine learning security research. AI agent security, Kubernetes and Active Directory.">
+  <meta name="robots" content="index,follow">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'self'; img-src 'self'; font-src 'self'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
+  <title>Abdullah Batuhan Yilmaz — Red Team & AI Security Research</title>
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="shell header-content">
+      <a class="brand" href="#top" aria-label="Home">
+        <span class="brand-mark">BY<span class="brand-dot">.</span></span>
+        <span class="brand-text">Batuhan Yilmaz <small>SECURITY / RESEARCH</small></span>
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="#research">Research</a>
+        <a href="#engineering">Engineering</a>
+        <a href="#publications">Publications</a>
+        <a href="#leadership">Leadership</a>
+      </nav>
+      <a class="header-link" href="https://github.com/abyilmaz-BatuhanYILMAZ" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero shell" id="top" aria-labelledby="hero-heading">
+      <div class="hero-copy">
+        <div class="eyebrow"><span class="online-dot" aria-hidden="true"></span> SECURITY ENGINEERING · RESEARCH · LEADERSHIP</div>
+        <h1 id="hero-heading">Understanding how systems <em>fail.</em><br>Engineering how they <em>hold.</em></h1>
+        <p class="lead">I'm <strong>Abdullah Batuhan Yilmaz</strong>, a Red Team Lead with nine years of cybersecurity experience, working at the intersection of offensive security, secure infrastructure, and machine learning research.</p>
+        <p class="support">My current focus is the gap between <strong>AI agents' intentions</strong> and the <strong>permissions their tools actually enforce</strong>—measured with transparent experiments, not security claims without evidence.</p>
+        <div class="hero-actions">
+          <a class="button button-primary" href="#research">Explore research <span aria-hidden="true">→</span></a>
+          <a class="button button-secondary" href="https://github.com/abyilmaz-BatuhanYILMAZ" target="_blank" rel="noopener noreferrer">See GitHub profile <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
+      <aside class="hero-panel" aria-label="Focus snapshot">
+        <div class="panel-top"><span class="mini-label">FOCUS / CURRENT</span><span class="signal">01 / 04</span></div>
+        <div class="panel-heading">Offense-informed<br><span>AI systems security</span></div>
+        <div class="panel-graph" aria-hidden="true">
+          <div class="node node-untrusted">UNTRUSTED SOURCE</div>
+          <div class="graph-arrow">↓</div>
+          <div class="node node-agent">MODEL DECISION</div>
+          <div class="graph-arrow">↓</div>
+          <div class="node node-gate">HOST-SIDE AUTHORIZATION <span class="check">✓</span></div>
+          <div class="node-caption">Trust boundaries • Tool controls • Measurable outcomes</div>
+        </div>
+        <div class="panel-footer"><span>FROM PROMPT TO PERMISSION</span><span class="mini-line"></span><span>2026</span></div>
+      </aside>
+    </section>
+
+    <section class="stats shell" aria-label="Professional overview">
+      <div><span class="stat-number">9<span> yrs</span></span><span class="stat-label">Cybersecurity experience</span></div>
+      <div><span class="stat-number">Red Team</span><span class="stat-label">Technical leadership</span></div>
+      <div><span class="stat-number">02</span><span class="stat-label">Peer-reviewed journal papers</span></div>
+      <div><span class="stat-number">Open</span><span class="stat-label">Research code & evidence</span></div>
+    </section>
+
+    <section class="section shell" id="research">
+      <div class="section-intro"><span class="kicker">01 — RESEARCH</span><h2>Security research with<br>the <span class="accent">limitations visible.</span></h2>
+        <p>Clear threat models, reproducible artifacts, comparative experiments and honest accounting of unreliable outputs.</p>
+      </div>
+      <article class="feature-card">
+        <div class="feature-top"><span class="tag">FEATURED RESEARCH</span><span class="feature-meta">LLM AGENTS · PROMPT INJECTION</span></div>
+        <div class="feature-main">
+          <div><h3>AI Agent Security Lab</h3><p>Tests whether instructions embedded in retrieved content can redirect an agent into unauthorized tool use. Compares prompt guidance and host-enforced capability boundaries under a paired-replay experimental design.</p>
+            <div class="feature-links"><a href="https://github.com/abyilmaz-BatuhanYILMAZ/AI-Agent-Security-Lab" target="_blank" rel="noopener noreferrer">Source & tests ↗</a><a href="https://github.com/abyilmaz-BatuhanYILMAZ/AI-Agent-Security-Lab/blob/main/docs/MATCHED-MODEL-COMPARISON-2026-11-14.md" target="_blank" rel="noopener noreferrer">Model comparison ↗</a><a href="https://github.com/abyilmaz-BatuhanYILMAZ/AI-Agent-Security-Lab/blob/main/docs/RESEARCH_PROTOCOL.md" target="_blank" rel="noopener noreferrer">Research protocol ↗</a></div>
+          </div>
+          <div class="research-facts"><div><b>2</b><span>Qwen2.5 model sizes evaluated</span></div><div><b>15</b><span>Original synthetic cases</span></div><div><b>4</b><span>Comparison conditions</span></div></div>
+        </div>
+        <p class="caution-note"><span aria-hidden="true">◈</span> Exploratory evidence: a small synthetic dataset and significant model-output validity issues. Simulated tool policies blocked observed unauthorized calls; this does not establish production agent security.</p>
+      </article>
+    </section>
+
+    <section class="section shell" id="engineering">
+      <div class="section-intro"><span class="kicker">02 — OPEN ENGINEERING</span><h2>Security tools built for<br><span class="accent">verification.</span></h2>
+      <p>Practical code, transparent coverage and an explicit distinction between automated tests and real-environment validation.</p></div>
+      <div class="project-grid">
+        <article class="project"><div class="project-number">01 / KUBERNETES</div><h3>KubeGuard</h3><p>Read-only Kubernetes manifest and live-cluster configuration auditing, including RBAC bindings and aggregation-aware permissions analysis.</p><div class="pills"><span>Python</span><span>Kubernetes API</span><span>RBAC</span></div><a href="https://github.com/abyilmaz-BatuhanYILMAZ/KubeGuard" target="_blank" rel="noopener noreferrer">Open repository <span aria-hidden="true">↗</span></a></article>
+        <article class="project"><div class="project-number">02 / ACTIVE DIRECTORY</div><h3>AD-HealthAudit</h3><p>Read-only Active Directory security indicators and preliminary privilege-relationship analysis. Verified with synthetic AD responses; live-domain validation remains outstanding.</p><div class="pills"><span>PowerShell</span><span>AD DS</span><span>Access control</span></div><a href="https://github.com/abyilmaz-BatuhanYILMAZ/AD-HealtAudit" target="_blank" rel="noopener noreferrer">Open repository <span aria-hidden="true">↗</span></a></article>
+        <article class="project"><div class="project-number">03 / LABORATORY</div><h3>KubeSecLab</h3><p>Turkish-language Kubernetes security exercises, including policy enforcement and RBAC checks in disposable training clusters.</p><div class="pills"><span>Hands-on labs</span><span>kind</span><span>Calico</span></div><a href="https://github.com/abyilmaz-BatuhanYILMAZ/KubeSecLab" target="_blank" rel="noopener noreferrer">Open repository <span aria-hidden="true">↗</span></a></article>
+      </div>
+    </section>
+
+    <section class="section shell" id="publications">
+      <div class="section-intro"><span class="kicker">03 — PEER-REVIEWED WORK</span><h2>From Android malware<br>to <span class="accent">trustworthy AI.</span></h2><p>Two co-authored papers in machine learning for security, separate from the newer AI agent experiments.</p></div>
+      <div class="publications">
+        <article><div class="pub-year">2026</div><div><span class="mini-label">INTERNATIONAL JOURNAL OF MOBILE COMMUNICATIONS · 28(1)</span><h3>Classification of malicious android applications by machine learning methods using permission properties</h3><p>Permission-feature classification with AdaBoost, Random Forest and neural networks. The paper reports 98.4% best accuracy with ANN and the full 117-feature set.</p><a href="https://doi.org/10.1504/IJMC.2026.154630" target="_blank" rel="noopener noreferrer">Read official paper / DOI <span aria-hidden="true">↗</span></a></div></article>
+        <article><div class="pub-year">2022</div><div><span class="mini-label">IJISAE · 10(2)</span><h3>Classification of Malicious Android Applications Using Naive Bayes and Support Vector Machine Algorithms</h3><p>Study of Android permission-based malware classification, reporting 92.4% for Naive Bayes and 90.9% for SVM within the paper's own evaluation.</p><a href="https://www.ijisae.org/index.php/IJISAE/article/view/2010" target="_blank" rel="noopener noreferrer">Read official journal record <span aria-hidden="true">↗</span></a></div></article>
+      </div>
+      <p class="publication-note">Reported paper results are not independent reproductions, and accuracy across the two papers is not presented as a directly comparable improvement. <a href="https://github.com/abyilmaz-BatuhanYILMAZ/Publications" target="_blank" rel="noopener noreferrer">View full bibliography ↗</a></p>
+    </section>
+
+    <section class="section shell" id="leadership">
+      <div class="section-intro"><span class="kicker">04 — RED TEAM LEADERSHIP</span><h2>Beyond finding<br><span class="accent">a vulnerability.</span></h2>
+      <p>Nine years in cybersecurity and current Red Team leadership inform how I approach offensive research: clear objectives, defensible evidence and remediation that improves resilience.</p></div>
+      <div class="lead-grid">
+        <div><span class="lead-index">01</span><h3>Scope before tools</h3><p>Clarify authorization, objectives, constraints and business risk before choosing techniques.</p></div>
+        <div><span class="lead-index">02</span><h3>Evidence before claims</h3><p>Separate observed effects from plausible attack paths, and document uncertainty.</p></div>
+        <div><span class="lead-index">03</span><h3>Detection and response</h3><p>Connect offensive findings to defensive telemetry, validation and practical improvements.</p></div>
+      </div>
+      <p class="case-link"><a href="https://github.com/abyilmaz-BatuhanYILMAZ/Publications/blob/main/career/RED-TEAM-LEADERSHIP-CASE-STUDY.md" target="_blank" rel="noopener noreferrer">Read leadership methodology case study <span aria-hidden="true">↗</span></a><span>Methodology illustration; no confidential client claims.</span></p>
+    </section>
+
+    <footer class="footer shell">
+      <div><p class="footer-title">Security is a discipline of <span>evidence.</span></p><p>Research. Build. Validate. Improve.</p></div>
+      <div class="footer-links"><a href="https://github.com/abyilmaz-BatuhanYILMAZ" target="_blank" rel="noopener noreferrer">GitHub ↗</a><a href="https://orcid.org/0000-0002-4400-712X" target="_blank" rel="noopener noreferrer">ORCID ↗</a><a href="#top">Back to top ↑</a></div>
+      <div class="copyright">© 2026 Abdullah Batuhan Yilmaz. Research claims are linked to public evidence.</div>
+    </footer>
+  </main>
+</body>
+</html>

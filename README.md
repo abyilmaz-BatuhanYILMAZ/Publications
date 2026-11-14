@@ -7,6 +7,24 @@ This repository is a curated academic publication record. It provides verified b
 [![Publications](https://img.shields.io/badge/peer--reviewed%20papers-2-224488)](./publications.json)
 [![Research focus](https://img.shields.io/badge/research-Android%20Malware%20%7C%20Machine%20Learning-446699)](#research-areas)
 
+## Professional portfolio website (GitHub Pages)
+
+A responsive, English-language portfolio is prepared in [docs/index.html](docs/index.html), with accompanying [CSS](docs/style.css) and SVG favicon. It presents Red Team leadership, AI agent security research, Kubernetes and Active Directory engineering, and peer-reviewed research with conservative evidence statements.
+
+**Publishing is a separate GitHub repository setting.** In this repository choose **Settings → Pages → Build and deployment → Deploy from a branch → main /docs → Save**. Once GitHub enables the site, the expected project URL is:
+
+`https://abyilmaz-batuhanyilmaz.github.io/Publications/`
+
+Do **not** treat this as a confirmed live URL until the Pages deployment succeeds. The site uses relative paths and has no external script/font dependencies; its HTML/CSS can later be moved into a dedicated `abyilmaz-batuhanyilmaz.github.io` user-site repository. A separately registered `.io` custom domain may also be attached later.
+
+### Professional background (public, non-confidential)
+
+- [Red Team leadership methodology case study](career/RED-TEAM-LEADERSHIP-CASE-STUDY.md) — explicitly **not** a claimed customer engagement.
+- [English professional research profile](career/PROFESSIONAL-PROFILE.md) — public statement and evidence map.
+- [Interview preparation guide](career/INTERVIEW-TALKING-POINTS.md) — actual evidence, limitations and prompts for truthful case examples.
+
+The security-career facts of nine years and current Red Team leadership were provided by the maintainer. Unverified impact metrics and client engagements are not included.
+
 ## Publications
 
 ### 2026 | Machine Learning & Feature Selection for Android Malware Detection
